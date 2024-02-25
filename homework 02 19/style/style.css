@@ -1,0 +1,22 @@
+div{
+    width: 400px;
+    text-align: justify;
+    line-height: 30px;
+    text-indent: 30px;
+}
+
+.h{
+    color: blue;
+    text-align: center;
+}
+
+.span_red{
+    color: red;
+    font-weight: bold;
+}
+
+.span_royalblue{
+    color:royalblue;
+    font-style: italic;
+    font-weight: bold;
+}
