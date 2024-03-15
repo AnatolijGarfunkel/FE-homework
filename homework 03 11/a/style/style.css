@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.block{
+    width: 400px;
+    height: 160px;
+    border: 1px solid black;
+    margin: 5px 5px ;
+    position: relative;
+}
+.box{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    
+}
+
+
+.box1_1{
+    border: 1px solid red;
+    left: 25px;
+    top: 25px;
+}
+
+.box1_2{
+    border: 1px solid blue;
+    left: 100px;
+    top: 25px;
+}
+
+.box1_3{
+    border: 1px solid green;
+    left: 175px;
+    top: 25px;
+}
+
+
+.box2_1{
+    border: 1px solid red;
+    left: 25px;
+    top: 25px;
+}
+
+.box2_2{
+    border: 1px solid blue;
+    left: 55px;
+    top: 55px;
+}
+
+.box2_3{
+    border: 1px solid green;
+    left: 85px;
+    top: 85px;
+}
+
+
+.box3_1{
+    background-color: red;
+    left: 25px;
+    top: 25px;
+}
+
+.box3_2{
+    background-color: blue;
+    left: 55px;
+    top: 55px;
+}
+
+.box3_3{
+    background-color: green;
+    left: 85px;
+    top: 85px;
+}
+
+
+.box4_1{
+    background-color: red;
+    left: 25px;
+    top: 25px;
+}
+
+.box4_2{
+    background-color: blue;
+    z-index: 1;
+    left: 55px;
+    top: 55px;
+}
+
+.box4_3{
+    background-color: green;
+    left: 85px;
+    top: 85px;
+}
+
+
+.box5_1{
+    background-color: red;
+    z-index: 1;
+    left: 25px;
+    top: 25px;
+}
+
+.box5_2{
+    background-color: blue;
+    left: 55px;
+    top: 55px;
+}
+
+.box5_3{
+    background-color: green;
+    left: 85px;
+    top: 85px;
+}
+
+
+.box6_1{
+    background-color: red;
+    z-index: 2;
+    left: 25px;
+    top: 25px;
+}
+
+.box6_2{
+    background-color: blue;
+    z-index: 1;
+    left: 55px;
+    top: 55px;
+}
+
+.box6_3{
+    background-color: green;
+    left: 85px;
+    top: 85px;
+}

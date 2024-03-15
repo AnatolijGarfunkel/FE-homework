@@ -1,0 +1,36 @@
+
+.main{
+    width: 400px;
+    border: 1px solid #B53471;
+    border-radius: 5px;
+    margin: 0 auto;
+
+    h1{
+        font-size: 16px;
+        font-weight: bold;
+        color:#B53471;
+        margin: 20px 10px;
+    }
+
+    p{
+        font-size: 10px;
+        font-weight: bold;
+        color: #B53471;
+        margin: 10px 10px;
+        
+    }
+}
+
+.contact{
+    background-color:#B53471;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+
+}
+
+.contact p{  
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+}
